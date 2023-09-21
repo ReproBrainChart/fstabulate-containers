@@ -2,3 +2,5 @@
 	id = bec408bc-e7aa-4cd2-b455-f18f1597830a
 [datalad "containers.fmriprep-20-2-3"]
 	image = .datalad/environments/fmriprep-20-2-3/image
+[datalad "containers.neuromaps-main"]
+	image = .datalad/environments/neuromaps-main/image
